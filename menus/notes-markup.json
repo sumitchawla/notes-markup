@@ -2,8 +2,12 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle notes-markup",
-        "command": "notes-markup:toggle"
+        "label": "notes-markup ctrl_1",
+        "command": "notes-markup:ctrl_1"
+      },
+      {
+        "label": "notes-markup ctrl_2",
+        "command": "notes-markup:ctrl_all"
       }
     ]
   },
@@ -12,11 +16,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "notes-markup",
+          "label": "Notes-Markup",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "notes-markup:toggle"
+              "label": "Action Item: 1 day",
+              "command": "notes-markup:ctrl_1"
+            },
+            {
+              "label": "Action Item: 2 day",
+              "command": "notes-markup:ctrl_all"
             }
           ]
         }

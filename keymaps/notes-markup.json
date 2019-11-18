@@ -1,5 +1,25 @@
 {
-  "atom-workspace": {
-    "ctrl-1": "notes-markup:ctrl-1"
+  "atom-text-editor": {
+    "ctrl-n": "notes-markup:handle_shortcut",
+    "ctrl-z": "notes-markup:handle_shortcut",
+    "ctrl-x": "notes-markup:handle_shortcut",
+    "ctrl-1": "notes-markup:handle_shortcut",
+    "ctrl-2": "notes-markup:handle_shortcut",
+    "ctrl-3": "notes-markup:handle_shortcut",
+    "ctrl-4": "notes-markup:handle_shortcut",
+    "ctrl-5": "notes-markup:handle_shortcut",
+    "ctrl-6": "notes-markup:handle_shortcut",
+    "alt-1": "notes-markup:handle_shortcut",
+    "alt-2": "notes-markup:handle_shortcut",
+    "alt-3": "notes-markup:handle_shortcut",
+    "alt-4": "notes-markup:handle_shortcut",
+    "alt-5": "notes-markup:handle_shortcut",
+    "alt-6": "notes-markup:handle_shortcut",
+    "cmd-1": "notes-markup:handle_shortcut",
+    "cmd-2": "notes-markup:handle_shortcut",
+    "cmd-3": "notes-markup:handle_shortcut",
+    "cmd-4": "notes-markup:handle_shortcut",
+    "cmd-5": "notes-markup:handle_shortcut",
+    "cmd-6": "notes-markup:handle_shortcut"
   }
 }
