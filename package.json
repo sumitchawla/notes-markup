@@ -3,13 +3,13 @@
   "main": "./lib/notes-markup",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/sumitchawla/notes-markup",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "copy-paste": "^1.1.4"
   }
 }

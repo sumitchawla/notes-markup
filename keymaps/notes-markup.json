@@ -20,6 +20,7 @@
     "cmd-3": "notes-markup:handle_shortcut",
     "cmd-4": "notes-markup:handle_shortcut",
     "cmd-5": "notes-markup:handle_shortcut",
-    "cmd-6": "notes-markup:handle_shortcut"
+    "cmd-6": "notes-markup:handle_shortcut",
+    "alt-c": "notes-markup:copy_text"
   }
 }
