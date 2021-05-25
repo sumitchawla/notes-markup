@@ -1,6 +1,7 @@
 {
   "atom-text-editor": {
     "ctrl-n": "notes-markup:handle_shortcut",
+    "ctrl-shift-z": "notes-markup:handle_shortcut",
     "ctrl-z": "notes-markup:handle_shortcut",
     "ctrl-x": "notes-markup:handle_shortcut",
     "ctrl-1": "notes-markup:handle_shortcut",
